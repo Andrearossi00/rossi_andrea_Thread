@@ -17,8 +17,7 @@ Ogni thread rappresenta una fase della produzione, eseguita in parallelo.
 - I messaggi a video mostrano le fasi della produzione
 
 ## 4. Commenti Javadoc
-Ogni classe e metodo contiene commenti Javadoc.  
-La documentazione Javadoc è inclusa come ZIP.
+Ogni classe e metodo contiene commenti Javadoc. 
 
 ## 5. UML del progetto
 È incluso un file UML.pdf con 3 classi principali:
@@ -28,3 +27,6 @@ La documentazione Javadoc è inclusa come ZIP.
 
 ## 6. Obiettivo
 Mostrare come simulare processi paralleli usando thread, sleep e join in Java.
+
+## 7. Autore
+Rossi Andrea del 5Cinf
